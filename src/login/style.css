@@ -2,6 +2,10 @@
     height: 600px;
     width: 100%;
 }
+.mb-3 input{
+    border: 1px solid;
+}
+
 
 #full-body{
     height: 100vh;
